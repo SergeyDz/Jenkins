@@ -35,7 +35,7 @@
       <cloudID>c2986a9b-934e-4985-a714-99c9a164e599</cloudID>
       <checkpoint>true</checkpoint>
       <onDemandRegistration>false</onDemandRegistration>
-      <jenkinsURL>http://192.168.65.111:28349</jenkinsURL>
+      <jenkinsURL>http://192.168.65.111:5254</jenkinsURL>
       <declineOfferDuration>600000</declineOfferDuration>
       <slaveInfos>
         <org.jenkinsci.plugins.mesos.MesosSlaveInfo>
