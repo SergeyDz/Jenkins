@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin version="1">
   <scm class="hudson.plugins.scm_sync_configuration.scms.ScmSyncGitSCM"/>
-  <scmRepositoryUrl>scm:git:https://SergeyDz@github.com/SergeyDz/Jenkins.git</scmRepositoryUrl>
+  <scmRepositoryUrl>scm:git:https://820f55ba4a84d725e86c5b1231528ae1501f9be4@github.com/SergeyDz/Jenkins.git</scmRepositoryUrl>
   <noUserCommitMessage>false</noUserCommitMessage>
   <displayStatus>true</displayStatus>
   <commitMessagePattern>[message]</commitMessagePattern>
